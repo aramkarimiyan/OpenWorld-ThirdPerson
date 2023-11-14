@@ -1132,3 +1132,46 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 
 [2023.11.14-18.09.14:553][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.046807 secs
 [2023.11.14-18.09.14:817][  2]LogD3D12RHI: Cannot end block when stack is empty
+[2023.11.14-18.10.37:805][408]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.14-18.11.25:624][662]LogDerivedDataCache: C:/Users/aram/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:20.154 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10643 files in 12727 folders with total size 4783 MiB.
+[2023.11.14-18.12.32:370][120]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.11.14-18.12.32:379][120]LogContentBrowser: Creating deferred item: NewWorld
+[2023.11.14-18.12.32:420][122]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.11.14-18.12.43:789][803]LogContentBrowser: Attempting asset rename: NewWorld -> Map-Maen
+[2023.11.14-18.12.43:792][803]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-18.12.43:792][803]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-18.12.43:798][803]LogContentBrowser: End creating deferred item NewWorld
+[2023.11.14-18.13.20:947][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.14-18.13.55:524][ 42]LogSlate: Window 'Save Content' being destroyed
+[2023.11.14-18.13.55:535][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-18.13.55:633][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.14-18.13.55:642][ 42]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.008346 seconds
+[2023.11.14-18.13.55:644][ 42]LogSavePackage: Moving output files for package: /Game/Maps/Map-Maen
+[2023.11.14-18.13.55:645][ 42]LogSavePackage: Moving '../../../../../../Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Saved/Map-MaenCFE767CB47F3202C7B75FB8456E8A161.tmp' to '../../../../../../Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Content/Maps/Map-Maen.umap'
+[2023.11.14-18.13.55:653][ 42]LogFileHelpers: Saving map 'Map-Maen' took 0.027
+[2023.11.14-18.13.55:663][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms
+[2023.11.14-18.13.55:663][ 42]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Map-Maen.Map-Maen
+[2023.11.14-18.13.55:663][ 42]Cmd: MAP LOAD FILE="../../../../../../Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Content/Maps/Map-Maen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.14-18.13.55:663][ 42]LightingResults: New page: Lighting Build
+[2023.11.14-18.13.55:663][ 42]LoadErrors: New page: Loading map: Map-Maen.umap
+[2023.11.14-18.13.55:696][ 42]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-18.13.55:696][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-18.13.55:698][ 42]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2023.11.14-18.13.55:698][ 42]MapCheck: New page: Map Check
+[2023.11.14-18.13.55:698][ 42]LightingResults: New page: Lighting Build
+[2023.11.14-18.13.55:703][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.14-18.13.55:716][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.11.14-18.13.55:720][ 42]LogWorld: UWorld::CleanupWorld for Map-Maen, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-18.13.55:720][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-18.13.55:725][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.11.14-18.13.55:730][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.11.14-18.13.55:731][ 42]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map-Maen'.
+[2023.11.14-18.13.55:731][ 42]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.14-18.13.55:731][ 42]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.14-18.13.55:732][ 42]LogAIModule: Creating AISystem for world Map-Maen
+[2023.11.14-18.13.55:764][ 42]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.14-18.13.55:768][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.11.14-18.13.55:769][ 42]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.14-18.13.55:769][ 42]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2023.11.14-18.13.55:777][ 42]AssetCheck: New page: Asset Save: Map-Maen
+[2023.11.14-18.13.55:777][ 42]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Map-Maen.Map-Maen

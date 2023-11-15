@@ -10,9 +10,13 @@
 				"C:/Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_M_Mat.uasset",
 				"C:/Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Content/SuperGrid/StarterPack/Source/Textures/T_HexagonRandom_Mat.uasset",
 				"C:/Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Content/SuperGrid/StarterPack/Source/Textures/T_StoneGrid_Mat.uasset",
-				"C:/Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Content/Blueprints/Ep_terrorist.uasset",
 				"C:/Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Content/Blueprints/Ep_conter_terrorist.uasset",
-				"C:/Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Content/Blueprints/EP_Playerbase.uasset"
+				"C:/Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Content/Blueprints/EP_Playerbase.uasset",
+				"C:/Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Content/Blueprints/Player/Ep_conter_terrorist.uasset",
+				"C:/Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Content/Blueprints/Player/Ep_terrorist.uasset",
+				"C:/Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Content/Blueprints/GM_Contter.uasset",
+				"C:/Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Content/Blueprints/PC_Contter.uasset",
+				"C:/Users/aram/Documents/Unreal Projects/OpenWorld-ThirdPerson/OpenWorld/Content/Blueprints/Ep_terrorist.uasset"
 			]
 		}
 	]
